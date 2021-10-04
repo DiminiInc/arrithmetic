@@ -5,7 +5,7 @@ class Credits extends Phaser.Scene {
   }
   create() {
     this.add.text( 175, 75, 'Arrithmetic', {fill: '#000000', fontSize: '40px'})
-    this.add.text( 175, 125, 'Version 0.0.0.1 (pre-alpha)', {fill: '#000000', fontSize: '30px'})
+    this.add.text( 175, 125, 'Version 0.0.2 (alpha)', {fill: '#000000', fontSize: '30px'})
      this.add.text( 175, 175, 'Game design: Dmitry Yaskovich', {fill: '#000000', fontSize: '20px'})
      this.add.text( 175, 200, 'Development: Dmitry Yaskovich', {fill: '#000000', fontSize: '20px'})
      this.add.text( 175, 225, 'Graphics: Dmitry Yaskovich', {fill: '#000000', fontSize: '20px'})
